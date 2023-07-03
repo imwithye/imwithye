@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [Yiwei, Gong](https://yiwei.dev) <sup>🔊</sup>
 
 <!--
 **imwithye/imwithye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Co-Founder, Solution Architect, Computer Graphics, AI
+- National University of Singapore
+- Co-Founder of VRcollab
+- Love Study!
+- Based in Singapore 🇸🇬 and Shanghai 🇨🇳
+- imwithye#gmail.com
+- Golang C++, Python, C#, JavaScript, Unity, Unreal, HLSL, CG, CUDA
 
 <p align="center">
   <a href="https://github.com/imwithye" class="rich-diff-level-one">
