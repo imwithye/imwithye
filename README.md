@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Co-Founder, Solution Architect, Computer Graphics, AI
 - National University of Singapore
-- Co-Founder of VRcollab
+- Co-Founder of [VRcollab Pte. Ltd.](https://vrcollab.com)
 - Love Study!
 - Based in Singapore 🇸🇬 and Shanghai 🇨🇳
 - imwithye#gmail.com
