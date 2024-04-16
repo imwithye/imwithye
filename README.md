@@ -1,3 +1,5 @@
+<img align="left" src="./github-metrics.svg">
+
 ### Hi there 👋, I'm [Yiwei, Gong](https://yiwei.dev) <sup>🔊</sup>
 
 <!--
@@ -22,11 +24,3 @@ Here are some ideas to get you started:
 - Based in Singapore 🇸🇬 and Shanghai 🇨🇳
 - imwithye#gmail.com
 - Golang C++, Python, C#, JavaScript, Unity, Unreal, HLSL, CG, CUDA
-
-<p align="center">
-  <a href="https://github.com/imwithye" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=imwithye&title_color=333&text_color=777" alt="Yiwei's Stats" />
-  </a>
-</p>
-
-![Metrics](./github-metrics.svg)
